@@ -6,7 +6,7 @@ Welcome to the ML-CyberSec repo! This is a collection of experimental projects e
 
 This repo is organized into several folders, each tackling a different cybersecurity problem using machine learning approaches. These are more proofs of concept than production-ready solutions:
 
-- [ ] `malware-detection`: Experimenting with ML models for detecting malicious software based on file characteristics and system behavior.
+- [x] `malware-detection`: Experimenting with ML models for detecting malicious software based on file characteristics and system behavior.
 - [ ] `network-intrusion-detection`: Exploring the use of machine learning algorithms to identify network intrusions and cyber attacks.
 - [ ] `phishing-detection`: Testing ML models for classifying emails, messages, and websites as potential phishing attempts.
 - [ ] `user-behavior-analytics`: Investigating user behavior analytics with machine learning to detect potential insider threats or compromised accounts.
