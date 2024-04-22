@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ml-cybersecurity"
+version = "0.1.0"
+description = "Cyber Security <3 ML"
+authors = ["Rohith04MVK <rohithkbobby04@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.29.4"
+pefile = "^2023.2.7"
+
+[tool.poetry.group.dev.dependencies]
+pandas = "^2.2.2"
+numpy = "^1.26.4"
+scikit-learn = "^1.4.2"
+matplotlib = "^3.8.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
